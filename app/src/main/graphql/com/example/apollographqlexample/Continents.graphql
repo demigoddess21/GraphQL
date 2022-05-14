@@ -1,0 +1,10 @@
+query Continents{
+    continents {
+       name
+       code
+       countries{
+           name
+
+       }
+    }
+}

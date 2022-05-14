@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GraphQL Example</string>
+    <string name="name">name</string>
+    <string name="code">Code:</string>
+    <string name="native_language">Native Language:</string>
+    <string name="capital">Capital:</string>
+    <string name="no_states_available">No States available</string>
+    <string name="continent">Continent</string>
+    <string name="_11">+11</string>
+</resources>
